@@ -1,0 +1,11 @@
+Model Information:
+* title:	Beach Sand Scan 2
+* source:	https://sketchfab.com/3d-models/beach-sand-scan-2-33214ec746c94bc39f1fcc1686643b0f
+* author:	EvanLegrand (https://sketchfab.com/evan4129)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Beach Sand Scan 2" (https://sketchfab.com/3d-models/beach-sand-scan-2-33214ec746c94bc39f1fcc1686643b0f) by EvanLegrand (https://sketchfab.com/evan4129) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
