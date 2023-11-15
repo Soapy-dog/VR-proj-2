@@ -1,0 +1,11 @@
+Model Information:
+* title:	F-22 Raptor
+* source:	https://sketchfab.com/3d-models/f-22-raptor-55a94a590f70499ba12734f82bb544c8
+* author:	jesper117 (https://sketchfab.com/jesper117)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "F-22 Raptor" (https://sketchfab.com/3d-models/f-22-raptor-55a94a590f70499ba12734f82bb544c8) by jesper117 (https://sketchfab.com/jesper117) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
