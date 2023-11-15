@@ -1,0 +1,11 @@
+Model Information:
+* title:	New York, Lower Manhattan & Battery Park 3D
+* source:	https://sketchfab.com/3d-models/new-york-lower-manhattan-battery-park-3d-816453bf718340899391816a4554ed13
+* author:	Nate Loper   🗺️ ⛏🏺  #ArizonaGuide (https://sketchfab.com/arizonaguide)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "New York, Lower Manhattan & Battery Park 3D" (https://sketchfab.com/3d-models/new-york-lower-manhattan-battery-park-3d-816453bf718340899391816a4554ed13) by Nate Loper   🗺️ ⛏🏺  #ArizonaGuide (https://sketchfab.com/arizonaguide) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
