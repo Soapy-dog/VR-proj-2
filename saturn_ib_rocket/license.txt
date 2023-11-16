@@ -1,0 +1,11 @@
+Model Information:
+* title:	Saturn IB Rocket
+* source:	https://sketchfab.com/3d-models/saturn-ib-rocket-430f8925710f4fa9ae335f61d926dd7c
+* author:	johnnokomis (https://sketchfab.com/johnnokomis)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Saturn IB Rocket" (https://sketchfab.com/3d-models/saturn-ib-rocket-430f8925710f4fa9ae335f61d926dd7c) by johnnokomis (https://sketchfab.com/johnnokomis) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
