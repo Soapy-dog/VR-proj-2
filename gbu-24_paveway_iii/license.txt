@@ -1,0 +1,11 @@
+Model Information:
+* title:	GBU-24 Paveway III
+* source:	https://sketchfab.com/3d-models/gbu-24-paveway-iii-8ad4f1ef83f54c43a7a3785c8b7679b0
+* author:	Dayzr (https://sketchfab.com/Dayzr)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "GBU-24 Paveway III" (https://sketchfab.com/3d-models/gbu-24-paveway-iii-8ad4f1ef83f54c43a7a3785c8b7679b0) by Dayzr (https://sketchfab.com/Dayzr) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
